@@ -1,5 +1,5 @@
 class SimpleCalc:
-    #  pass
+     #pass
     def add(self, value1, value2):
         return value1 + value2
         # this function adds the values for value1 and value 2 against the test we have in other class

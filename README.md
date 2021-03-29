@@ -79,3 +79,18 @@ class SimpleCalc:
     def divide(self, value1, value2):
         return value1 / value2
 ```
+
+- Running the tests with `python -m unittest discover -v`
+
+```
+python -m unittest discover -v
+test_add (test_unittest_simplecalc.CalcTest) ... ok
+test_divide (test_unittest_simplecalc.CalcTest) ... ok
+test_multiply (test_unittest_simplecalc.CalcTest) ... ok
+test_subtract (test_unittest_simplecalc.CalcTest) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+OK
+```

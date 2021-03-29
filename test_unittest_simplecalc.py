@@ -25,3 +25,4 @@ class CalcTest(unittest.TestCase):
     def test_divide(self):
         self.assertEqual(self.calc.divide(15, 3), 5)
         # This test 15 / 3 = 5 if true the test passes
+# pytest looks for any file wtih name including test.*.py
