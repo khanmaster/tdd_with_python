@@ -12,6 +12,7 @@
 - Write code to pass the test `GREEN`
 - Refactor the code for next test `BLUE`
 - This continues until all the test have successfully passed 
+![TDD](https://github.com/khanmaster/tdd_with_python/blob/main/TDD.png)
 
 There are also numerous assertions that are inherited from the TestCase base class, assertions are everything in testing...
 
